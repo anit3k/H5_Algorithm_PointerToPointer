@@ -10,4 +10,5 @@ int main() {
 	**ptr2 = 66; // set new value
 	printf("The value is after: %d\n", x);
 	printf("The value is after: %d\n", **ptr2);
+	return 0;
 }
